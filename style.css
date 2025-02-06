@@ -1,0 +1,34 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    margin: 8px;
+}
+
+h1 {
+    background-color: black;
+    color: whitesmoke;
+    text-align: left;
+}
+
+.cloud {
+    color: cadetblue;
+    margin-left: -10px;
+}
+
+h2 {
+    color: antiquewhite;
+    background-color: coral;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+h3 {
+    text-align: right;
+    background-color: cadetblue;
+    color: antiquewhite;
+}
+
+.contact {
+    color: whitesmoke;
+}
